@@ -21,24 +21,16 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🔓 Open-Source Software
 
-### Leading Omnichannel / Intercom-style Platforms
-- **[Chatwoot](https://github.com/chatwoot/chatwoot)** — The leading open-source alternative to Intercom and Zendesk. Omnichannel inbox (live chat, email, WhatsApp, Instagram, Facebook, Telegram, SMS), AI agent (Captain), canned responses, reports, and customizable widget. MIT license. Extremely active (~34k+ stars).
-- **[Chaskiq](https://github.com/chaskiq/chaskiq)** — Full-stack open-source conversational platform built as an Intercom/Drift alternative. Live chat, video calls, help center, campaigns, bots, and onboarding tours. Self-hosted.
-- **[Libredesk](https://github.com/abhinavxd/libredesk)** — Modern self-hosted omnichannel support desk (live chat + email and more) delivered as a single binary. Clean UI and automation features.
-
-### Lightweight Live Chat
-- **[Papercups](https://github.com/papercups-io/papercups)** — Lightweight open-source live customer chat (Elixir + React). Direct Intercom-style widget and shared inbox. Privacy-focused. Note: currently in maintenance mode.
-- **[Mibew Messenger](https://mibew.org/)** — Classic, long-standing open-source live support / chat application. Simple and reliable for basic website chat needs.
-- **[Tiledesk](https://github.com/Tiledesk)** — Open-source live chat + no-code AI chatbot builder with multi-channel support and human handoff.
-
-### Helpdesk / Shared Inbox with Chat Capabilities
-- **[FreeScout](https://github.com/freescout-helpdesk/freescout)** — Lightweight open-source shared inbox and help desk (PHP). Excellent for email-first teams that also want live chat. Easy to deploy even on shared hosting.
-- **[Zammad](https://github.com/zammad/zammad)** — Full-featured open-source helpdesk/ticketing system with live chat, email, phone, and social channels. Strong process and SLA support.
-- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** — Powerful open-source team + customer communication platform. Omnichannel capabilities (live chat widget, WhatsApp, etc.) in addition to internal messaging.
-
-### Other Notable Projects
-- **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** — Modern open-source customer service / helpdesk software from the Frappe team (makers of ERPNext).
-- Various emerging AI-first open-source chatbots and support agents (e.g., projects building on LLMs with human handoff) continue to appear on GitHub.
+- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** <a href="https://github.com/RocketChat/Rocket.Chat/stargazers"><img src="https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white" alt="Stars" /></a> — Powerful open-source team + customer communication platform. Omnichannel capabilities (live chat widget, WhatsApp, etc.) in addition to internal messaging.
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** <a href="https://github.com/chatwoot/chatwoot/stargazers"><img src="https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white" alt="Stars" /></a> — The leading open-source alternative to Intercom and Zendesk. Omnichannel inbox (live chat, email, WhatsApp, Instagram, Facebook, Telegram, SMS), AI agent (Captain), canned responses, reports, and customizable widget. MIT license. Extremely active (~34k+ stars).
+- **[Papercups](https://github.com/papercups-io/papercups)** <a href="https://github.com/papercups-io/papercups/stargazers"><img src="https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white" alt="Stars" /></a> — Lightweight open-source live customer chat (Elixir + React). Direct Intercom-style widget and shared inbox. Privacy-focused. Note: currently in maintenance mode.
+- **[Zammad](https://github.com/zammad/zammad)** <a href="https://github.com/zammad/zammad/stargazers"><img src="https://img.shields.io/github/stars/zammad/zammad?style=social&color=white" alt="Stars" /></a> — Full-featured open-source helpdesk/ticketing system with live chat, email, phone, and social channels. Strong process and SLA support.
+- **[FreeScout](https://github.com/freescout-helpdesk/freescout)** <a href="https://github.com/freescout-helpdesk/freescout/stargazers"><img src="https://img.shields.io/github/stars/freescout-helpdesk/freescout?style=social&color=white" alt="Stars" /></a> — Lightweight open-source shared inbox and help desk (PHP). Excellent for email-first teams that also want live chat. Easy to deploy even on shared hosting.
+- **[Chaskiq](https://github.com/chaskiq/chaskiq)** <a href="https://github.com/chaskiq/chaskiq/stargazers"><img src="https://img.shields.io/github/stars/chaskiq/chaskiq?style=social&color=white" alt="Stars" /></a> — Full-stack open-source conversational platform built as an Intercom/Drift alternative. Live chat, video calls, help center, campaigns, bots, and onboarding tours. Self-hosted.
+- **[Tiledesk](https://github.com/Tiledesk/tiledesk-server)** <a href="https://github.com/Tiledesk/tiledesk-server/stargazers"><img src="https://img.shields.io/github/stars/Tiledesk/tiledesk-server?style=social&color=white" alt="Stars" /></a> — Open-source live chat + no-code AI chatbot builder with multi-channel support and human handoff.
+- **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** <a href="https://github.com/frappe/helpdesk/stargazers"><img src="https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white" alt="Stars" /></a> — Modern open-source customer service / helpdesk software from the Frappe team (makers of ERPNext).
+- **[Mibew Messenger](https://github.com/Mibew/mibew)** <a href="https://github.com/Mibew/mibew/stargazers"><img src="https://img.shields.io/github/stars/Mibew/mibew?style=social&color=white" alt="Stars" /></a> — Classic, long-standing open-source live support / chat application. Simple and reliable for basic website chat needs.
+- **[Libredesk](https://github.com/abhinavxd/libredesk)** <a href="https://github.com/abhinavxd/libredesk/stargazers"><img src="https://img.shields.io/github/stars/abhinavxd/libredesk?style=social&color=white" alt="Stars" /></a> — Modern self-hosted omnichannel support desk (live chat + email and more) delivered as a single binary. Clean UI and automation features.
 
 ---
 
