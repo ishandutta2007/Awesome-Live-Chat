@@ -6,16 +6,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[Intercom](https://www.intercom.com/)** — Full customer messaging platform with live chat, in-app messaging, bots, product tours, and AI (Fin). Premium pricing.
-- **[LiveChat](https://www.livechat.com/)** — Popular website live chat with strong reporting, AI chatbot, and integrations. Agent-based pricing.
-- **[Tidio](https://www.tidio.com/)** — Affordable live chat + chatbot platform with visual bot builder, popular with SMBs and e-commerce.
-- **[Zendesk Messaging](https://www.zendesk.com/)** — Omnichannel messaging suite (web, mobile, social, WhatsApp) as part of the broader Zendesk platform.
-- **[Crisp](https://crisp.chat/)** — Modern, clean live chat and shared inbox with knowledge base and chatbot features. Competitive pricing.
-- **[Drift](https://www.drift.com/)** — Conversational marketing and sales-focused live chat with meeting booking and ABM features.
-- **[Olark](https://www.olark.com/)** — Classic, lightweight live chat focused on simplicity and visitor insights.
-- **[LiveAgent](https://www.liveagent.com/)** — All-in-one help desk with live chat, ticketing, call center, and social media.
-- **[Chatra](https://chatra.com/)** — Simple, affordable live chat with multichannel and chatbot options.
-- **[HelpCrunch](https://helpcrunch.com/)** — Combined live chat, email marketing, and knowledge base platform for growing businesses.
+| Name | Description | Est. Revenue/Valuation | Pricing | Free Tier Limits |
+| --- | --- | --- | --- | --- |
+| **[Zendesk Messaging](https://www.zendesk.com/)** | Omnichannel messaging suite (web, mobile, social, WhatsApp) as part of the broader Zendesk platform. | ~$1.9 Billion | Premium pricing | No free tier, 14-day free trial |
+| **[Intercom](https://www.intercom.com/)** | Full customer messaging platform with live chat, in-app messaging, bots, product tours, and AI (Fin). | ~$300 Million | Premium per-seat + usage | No free tier, 14-day free trial |
+| **[Drift](https://www.drift.com/)** | Conversational marketing and sales-focused live chat with meeting booking and ABM features. | ~$100 Million | High-end B2B pricing | No free tier |
+| **[LiveChat](https://www.livechat.com/)** | Popular website live chat with strong reporting, AI chatbot, and integrations. | ~$75 Million | Agent-based pricing | No free tier, 14-day free trial |
+| **[Tidio](https://www.tidio.com/)** | Affordable live chat + chatbot platform with visual bot builder, popular with SMBs and e-commerce. | ~$30 Million | Tiered based on limits | 50 live chat conversations/month |
+| **[Crisp](https://crisp.chat/)** | Modern, clean live chat and shared inbox with knowledge base and chatbot features. | ~$10 Million | Free, Pro, Unlimited | 2 seats, basic live chat |
+| **[Olark](https://www.olark.com/)** | Classic, lightweight live chat focused on simplicity and visitor insights. | ~$10 Million | Per-seat pricing | No free tier, 14-day free trial |
+| **[LiveAgent](https://www.liveagent.com/)** | All-in-one help desk with live chat, ticketing, call center, and social media. | ~$5 Million | Tiered per-seat | 7-day ticket history, 1 chat button |
+| **[Chatra](https://chatra.com/)** | Simple, affordable live chat with multichannel and chatbot options. | ~$5 Million | Free, Essential, Pro | 1 agent, basic live chat |
+| **[HelpCrunch](https://helpcrunch.com/)** | Combined live chat, email marketing, and knowledge base platform for growing businesses. | ~$5 Million | Agent-based + usage | No free tier, 14-day free trial |
 
 ## 🔓 Open-Source Software
 
