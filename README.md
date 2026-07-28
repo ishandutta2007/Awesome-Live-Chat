@@ -1,4 +1,4 @@
-# Awesome-Live-Chat
+# Awesome-Live-Chat 💬
 
 <div align="center">
   <img src="assets/banner.svg" alt="Awesome Live Chat Banner" width="100%">
@@ -10,7 +10,7 @@
 
 Below is a **curated list** of notable platforms and their open-source equivalents. The focus is on **open-source** solutions that can be self-hosted for full data ownership and zero per-agent licensing fees.
 
-## 🏢 SaaS / Hosted Platforms
+## 🏢 SaaS / Hosted Platforms 🌐
 
 | Name | Description | Est. Revenue/Valuation | Pricing | Free Tier Limits |
 | --- | --- | --- | --- | --- |
@@ -25,7 +25,7 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 | **[Chatra](https://chatra.com/)** | Simple, affordable live chat with multichannel and chatbot options. | ~$5 Million | Free, Essential, Pro | 1 agent, basic live chat |
 | **[HelpCrunch](https://helpcrunch.com/)** | Combined live chat, email marketing, and knowledge base platform for growing businesses. | ~$5 Million | Agent-based + usage | No free tier, 14-day free trial |
 
-## 🔓 Open-Source Software
+## 🔓 Open-Source Software 🛠️
 
 - **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** <a href="https://github.com/RocketChat/Rocket.Chat/stargazers"><img src="https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white" alt="Stars" /></a> — Powerful open-source team + customer communication platform. Omnichannel capabilities (live chat widget, WhatsApp, etc.) in addition to internal messaging.
 - **[Chatwoot](https://github.com/chatwoot/chatwoot)** <a href="https://github.com/chatwoot/chatwoot/stargazers"><img src="https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white" alt="Stars" /></a> — The leading open-source alternative to Intercom and Zendesk. Omnichannel inbox (live chat, email, WhatsApp, Instagram, Facebook, Telegram, SMS), AI agent (Captain), canned responses, reports, and customizable widget. MIT license. Extremely active (~34k+ stars).
@@ -40,11 +40,11 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ---
 
-**How to contribute**  
+**How to contribute** 🤝  
 Fork this repository, add a new project (with link + short description + category), and open a pull request.  
 Prefer actively maintained open-source projects that offer website live chat widgets and agent inboxes.
 
-**License**  
+**License** 📜  
 This list is public domain / CC0. Feel free to copy into your own awesome list or README.
 
 Star the projects you find useful — the open-source customer messaging ecosystem is strong and growing fast! 💬
